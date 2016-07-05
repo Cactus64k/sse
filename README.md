@@ -1,0 +1,2 @@
+# sse
+Small SQLite Editor
